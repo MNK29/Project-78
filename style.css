@@ -1,0 +1,25 @@
+  body {
+      background-color: rgb(14, 13, 13);
+  }
+
+  #family {
+      color: coral;
+  }
+
+  #family_member_image {
+      height: 350;
+      width: 250;
+  }
+
+  button {
+      font-size: 30px;
+      cursor: pointer;
+      background-color: rgb(14, 13, 13);
+      color: cornsilk;
+  }
+
+  #family_member_name {
+      color: darkcyan;
+      font-size: 25px;
+  }
+  
